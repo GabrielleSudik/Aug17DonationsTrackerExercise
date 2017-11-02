@@ -75,6 +75,7 @@ namespace Aug17DonationsTrackerExercise
 
             Console.WriteLine("Hello, World! It's November 1, 2017.");
 
+            Console.WriteLine("This too, but I'm going to uncheck this line in GitHub, to see if it saves...");
             Console.ReadLine();
         }
     }

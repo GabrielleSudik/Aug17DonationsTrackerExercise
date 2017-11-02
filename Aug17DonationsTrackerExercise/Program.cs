@@ -71,6 +71,11 @@ namespace Aug17DonationsTrackerExercise
             Console.WriteLine($"Address: {city}. Email: {email}. Year: {fiscYear}.");
             Console.WriteLine($"Total donation: {totalDonation}. Thank you!");
 
+            //this is added to practice working on branches in GitHub:
+
+            Console.WriteLine("Hello, World! It's November 1, 2017.");
+
+            Console.WriteLine("This too, but I'm going to uncheck this line in GitHub, to see if it saves...");
             Console.ReadLine();
         }
     }
